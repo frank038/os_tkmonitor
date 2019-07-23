@@ -1,6 +1,6 @@
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY. Anyone can use and modified it for any purpose. Just remember the author.
 
-<big>Os_tkmonitor</big>
+Os_tkmonitor
 by frank38
 
 A simple system monitor in Python3/Tkinter.
