@@ -10,7 +10,7 @@ This program is written using Python3 and Tkinter. The only external additional 
 This program shows some infos about the PC. Among them, about CPU and GPU. About the GPU: at the moment only the Nvidia GPUs are supported (because I own one), but other vendors can be added easily: empty module are provided.
 
 How to use: just type in the terminal 'python3 os_tkmonitor.py' or double click on it.
-In this case, no GPU infos are shown. To get them, type 'python3 os_tkmonitor.py 1 nvidia (or nouveau or amdpro or radeon or intel)' where 1 is the update interval of the cpu infos.
+In this case, no GPU infos are shown. To get them, type 'python3 os_tkmonitor.py 1 nvidia (or nouveau or amdpro or radeon or intel)' where 1 is the update interval of the cpu infos, and can be any integer number.
 
 The tab CPU shows some infos about the cpu: usage, frequencies and temperature per physical core.
 
