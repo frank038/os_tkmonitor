@@ -15,3 +15,9 @@ In this case, no GPU infos are shown. To get them, type 'python3 os_tkmonitor.py
 The tab CPU shows some infos about the cpu: usage, frequencies and temperature per physical core.
 
 Please, whatch the pictures for a better explanation.
+
+![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab1a.png)
+![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab2.png)
+![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab3a.png)
+![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab4a.png)
+![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab5a.png)
