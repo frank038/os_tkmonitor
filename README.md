@@ -14,6 +14,8 @@ In this case, no GPU infos are shown. To get them, type 'python3 os_tkmonitor.py
 
 The tab CPU shows some infos about the cpu: usage, frequencies and temperature per physical core.
 
+The width and height of the level widgets per cpu core can be customized by changing some parameters in the beginning of the file os_tkmonitor.py.
+
 Please, whatch the pictures for a better explanation.
 
 ![My image](https://github.com/frank038/os_tkmonitor/blob/master/tab1a.png)
